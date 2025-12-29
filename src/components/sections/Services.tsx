@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { Share2, Video, Megaphone, PenTool, ArrowRight, Target, FileText } from "lucide-react";
-import Card from "@/components/ui/Card";
+import Card3D from "@/components/ui/Card3D";
 import SectionTitle from "@/components/ui/SectionTitle";
 import Button from "@/components/ui/Button";
 import { api, Service } from "@/lib/api";
